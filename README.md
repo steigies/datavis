@@ -1,2 +1,1 @@
-# datavis
-Jupyter notebooks for the end of the rainbow
+# Jupyter notebooks for the end of the rainbow
